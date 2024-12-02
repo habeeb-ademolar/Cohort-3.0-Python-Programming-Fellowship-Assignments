@@ -22,5 +22,5 @@
 
 # Bold 
 
-**This text is bolded**
+*This text is bolded*
 this is not bolded
