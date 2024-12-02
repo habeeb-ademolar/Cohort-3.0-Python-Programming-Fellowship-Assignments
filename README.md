@@ -12,8 +12,11 @@
 # Markdown-learning
 
 
-## This is two level heading
+## This is 2 level heading
 
-### This is three level heading
+### This is 3 level heading
 
-#### This is four level heading 
+#### This is 4 level heading 
+
+###### Heading 6
+
