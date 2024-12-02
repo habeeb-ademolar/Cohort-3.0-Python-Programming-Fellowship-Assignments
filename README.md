@@ -26,7 +26,8 @@
 _This will also be italic_
 
 **This text will be bold**
+
 __This will also be bold__
 
-_You **can** combine them_
+_You **can** combine them_ like this _**love** is a beautiful sin_
 
