@@ -62,4 +62,4 @@ _You **can** combine them_ like this _**love** is a beautiful sin_
 
 ## links
 
-[habeebademolar]([WWW.behance.com/habeebademolar](https://github.com/habeeb-ademolar))
+[habeebademolar](https://github.com/habeeb-ademolar)
