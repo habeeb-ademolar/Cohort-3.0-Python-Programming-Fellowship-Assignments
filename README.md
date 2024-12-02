@@ -31,3 +31,15 @@ __This will also be bold__
 
 _You **can** combine them_ like this _**love** is a beautiful sin_
 
+# List
+- Number 1
+- Number 2
+- number 3
+
+* Number 1
+* Number 2
+* Number 3
+
++ Number 1
++ Number 2
++ Number 3
